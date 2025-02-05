@@ -4,15 +4,6 @@ You can call me Jaqueline! Software Developer from Brazil. Passionate about codi
 
 ---
 
-## 📊 My GitHub Stats
-
-![Jaqueline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=dark)
-
-## 🚀 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=dark)
-
----
 
 ### 🛠 Tech Stack
 
