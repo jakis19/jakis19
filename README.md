@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-You can call me Jaqueline! Full Stack Developer from Brazil. Passionate about coding and new technologies, always seeking to expand my knowledge. Currently, I'm in the second semester of my Internet Systems degree.
+You can call me Jaqueline! I'm a Full Stack Developer from Brazil. Passionate about programming and new technologies, I'm always looking to expand my knowledge. Currently, I'm in my fourth semester of my undergraduate degree in Internet Systems.
 
 ---
 
